@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Animalia_Tests' do
+  pod 'Animalia', :path => '../'
+  
+  
+end
