@@ -1,0 +1,22 @@
+{
+  "name": "Animalia",
+  "version": "0.1.0",
+  "summary": "A short description of Animalia.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/heshamsalman/Animalia",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "heshamsalman": "hesham.salman@viewthespace.com"
+  },
+  "source": {
+    "git": "https://github.com/heshamsalman/Animalia.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Animalia/Classes/**/*"
+}

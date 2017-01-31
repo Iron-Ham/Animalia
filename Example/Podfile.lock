@@ -1,0 +1,16 @@
+PODS:
+  - Animalia (0.1.0)
+
+DEPENDENCIES:
+  - Animalia (from `../`)
+
+EXTERNAL SOURCES:
+  Animalia:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Animalia: 71bbd2ae46a2d744aff0d3c37e5a03b344c7b785
+
+PODFILE CHECKSUM: 2bfa3a2fdb20832ed44814c09a1f0e3e3d261666
+
+COCOAPODS: 1.2.0.beta.1

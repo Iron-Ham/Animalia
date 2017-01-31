@@ -1,0 +1,6 @@
+framework module Animalia {
+  umbrella header "Animalia-umbrella.h"
+
+  export *
+  module * { export * }
+}
